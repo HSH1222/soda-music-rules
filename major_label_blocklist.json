@@ -1,0 +1,51 @@
+{
+  "database_version": "2026.08.14.1",
+  "updated_at": "2026-08-14",
+  "scope": "明确签约、直属/联合厂牌及已确认的录音或出版目录权利；不因单纯战略合作自动扩展到合作方全部艺人",
+  "sources": [
+    "https://www.universalmusic.com/labels/",
+    "https://www.sonymusic.com/labels/",
+    "https://www.wmg.com/recording-artists",
+    "https://www.universalmusic.com/chinese-pop-superstar-jason-zhang-joins-universal-music-greater-china/",
+    "https://www.universalmusic.com/universal-music-greater-china-welcomes-versatile-young-star-nana-ouyang-to-its-global-artist-roster/",
+    "https://www.universalmusic.com/universal-music-greater-china-strikes-exclusive-global-alliance-with-liu-huan-timeless-icon-of-chinese-pop-music/",
+    "https://www.universalmusic.com/universal-music-greater-china-acquires-iconic-golden-era-mandopop-catalog-featuring-little-tigers-johnny-chiang-and-legends-of-taiwanese-music/",
+    "https://www.sonymusic.com.cn/news/",
+    "https://www.columbiarecords.com/artists/",
+    "https://shop.rcarecords.com/pages/artist-roster",
+    "https://www.wmg.com/news/warner-music-apac-launches-listen-up",
+    "https://www.warnermusic.com.cn/domestic/"
+  ],
+  "change_log": [
+    "新增环球大中华区张杰、欧阳娜娜、刘欢及Carrier Creative目录权利",
+    "新增Def Jam Recordings China、DG China、Blue Note Records China等官方厂牌",
+    "新增索尼Santa Anna Records、Sony Music Vision及萧敬腾、炎明熹等已核验艺人",
+    "新增华纳10K Projects、Atlantic Music Group及2026 APAC明确签约艺人",
+    "战略合作与纯分销关系不自动推定为旗下艺人签约"
+  ],
+  "companies": {
+    "Universal Music Group": [],
+    "Sony Music Entertainment": [],
+    "Warner Music Group": []
+  },
+  "labels": {
+    "Universal Music Group": [],
+    "Sony Music Entertainment": [],
+    "Warner Music Group": []
+  },
+  "artists": {
+    "Universal Music Group": [],
+    "Sony Music Entertainment": [],
+    "Warner Music Group": []
+  },
+  "work_ids": {
+    "Universal Music Group": [],
+    "Sony Music Entertainment": [],
+    "Warner Music Group": []
+  },
+  "lyric_fingerprints": {
+    "Universal Music Group": [],
+    "Sony Music Entertainment": [],
+    "Warner Music Group": []
+  }
+}
