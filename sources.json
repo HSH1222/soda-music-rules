@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "umg-labels",
+      "company": "Universal Music Group",
+      "section": "labels",
+      "url": "https://www.universalmusic.com/labels/",
+      "parser": "attribute_prefix",
+      "attribute": "alt",
+      "prefix": "UMG Labels:",
+      "minimum_items": 50
+    },
+    {
+      "id": "sony-labels",
+      "company": "Sony Music Entertainment",
+      "section": "labels",
+      "url": "https://www.sonymusic.com/labels/",
+      "parser": "class_text",
+      "class_name": "labels-img",
+      "minimum_items": 10
+    },
+    {
+      "id": "sony-featured-artists",
+      "company": "Sony Music Entertainment",
+      "section": "artists",
+      "url": "https://www.sonymusic.com/artists/",
+      "parser": "tag_text",
+      "tag": "h2",
+      "minimum_items": 10
+    },
+    {
+      "id": "wmg-recording-artists",
+      "company": "Warner Music Group",
+      "section": "artists",
+      "url": "https://www.wmg.com/recording-artists",
+      "parser": "class_text",
+      "class_name": "masonry-header__image-caption",
+      "minimum_items": 10
+    },
+    {
+      "id": "wmg-labels",
+      "company": "Warner Music Group",
+      "section": "labels",
+      "url": "https://www.wmg.com/recording-artists",
+      "parser": "anchor_prefix",
+      "prefix": "Visit ",
+      "minimum_items": 15
+    }
+  ]
+}
