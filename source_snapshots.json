@@ -5,7 +5,7 @@
       "company": "Universal Music Group",
       "section": "labels",
       "url": "https://www.universalmusic.com/labels/",
-      "content_sha256": "42b1a028f895a10a3bddd232c062097d3be958199d96bebd6b2376dd3433022c",
+      "content_sha256": "ba1ce3c763fc508904bccf1dbd45e98ccd50c9aa8c832744e779ce935ca48b7d",
       "items": [
         "0207 Def Jam",
         "Abbey Road",
@@ -140,27 +140,27 @@
       "company": "Warner Music Group",
       "section": "artists",
       "url": "https://www.wmg.com/recording-artists",
-      "content_sha256": "654583b5788fefaa8aec19a9d3c7f0ac2356c5381140eb61caec316d8d364b7d",
+      "content_sha256": "9fe486430091566c531b3bbb7a74e6f158680bd01fcf3b039f8f0684a7579f99",
       "items": [
         "Alex Warren",
         "Bruno Mars",
+        "Burna Boy",
         "Charli xcx",
+        "David Guetta",
         "Don Toliver",
-        "Kehlani",
         "Madonna",
-        "Muse",
+        "Miley Cyrus",
         "PinkPantheress",
-        "sombr",
-        "Teddy Swims",
-        "Tiësto",
-        "Zach Bryan"
+        "Ravyn Lanae",
+        "Sombr",
+        "Teddy Swims"
       ]
     },
     "wmg-labels": {
       "company": "Warner Music Group",
       "section": "labels",
       "url": "https://www.wmg.com/recording-artists",
-      "content_sha256": "654583b5788fefaa8aec19a9d3c7f0ac2356c5381140eb61caec316d8d364b7d",
+      "content_sha256": "9fe486430091566c531b3bbb7a74e6f158680bd01fcf3b039f8f0684a7579f99",
       "items": [
         "10K Projects",
         "300",

@@ -1,6 +1,6 @@
 {
-  "database_version": "2026.08.15.1",
-  "updated_at": "2026-08-15",
+  "database_version": "2026.08.28.1",
+  "updated_at": "2026-08-28",
   "scope": "明确签约、直属/联合厂牌及已确认的录音或出版目录权利；不因单纯战略合作自动扩展到合作方全部艺人",
   "sources": [
     "https://shop.rcarecords.com/pages/artist-roster",
@@ -18,6 +18,7 @@
     "https://www.wmg.com/recording-artists"
   ],
   "change_log": [
+    "官方名单自动更新：Warner Music Group/artists 新增 4 项",
     "官方名单自动更新：Universal Music Group/labels 新增 70 项；Sony Music Entertainment/labels 新增 17 项；Sony Music Entertainment/artists 新增 24 项；Warner Music Group/artists 新增 12 项；Warner Music Group/labels 新增 66 项",
     "新增环球大中华区张杰、欧阳娜娜、刘欢及Carrier Creative目录权利",
     "新增Def Jam Recordings China、DG China、Blue Note Records China等官方厂牌",
@@ -222,12 +223,16 @@
     "Warner Music Group": [
       "Alex Warren",
       "Bruno Mars",
+      "Burna Boy",
       "Charli xcx",
+      "David Guetta",
       "Don Toliver",
       "Kehlani",
       "Madonna",
+      "Miley Cyrus",
       "Muse",
       "PinkPantheress",
+      "Ravyn Lanae",
       "sombr",
       "Teddy Swims",
       "Tiësto",

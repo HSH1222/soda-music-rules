@@ -1,4 +1,41 @@
 {
   "schema_version": 1,
-  "items": []
+  "items": [
+    {
+      "source_id": "wmg-recording-artists",
+      "company": "Warner Music Group",
+      "section": "artists",
+      "value": "Kehlani",
+      "reason": "official_source_removed",
+      "detected_at": "2026-08-28",
+      "status": "pending"
+    },
+    {
+      "source_id": "wmg-recording-artists",
+      "company": "Warner Music Group",
+      "section": "artists",
+      "value": "Muse",
+      "reason": "official_source_removed",
+      "detected_at": "2026-08-28",
+      "status": "pending"
+    },
+    {
+      "source_id": "wmg-recording-artists",
+      "company": "Warner Music Group",
+      "section": "artists",
+      "value": "Tiësto",
+      "reason": "official_source_removed",
+      "detected_at": "2026-08-28",
+      "status": "pending"
+    },
+    {
+      "source_id": "wmg-recording-artists",
+      "company": "Warner Music Group",
+      "section": "artists",
+      "value": "Zach Bryan",
+      "reason": "official_source_removed",
+      "detected_at": "2026-08-28",
+      "status": "pending"
+    }
+  ]
 }
