@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "database_version": "2026.08.28.1",
-  "updated_at": "2026-08-28",
+  "database_version": "2026.09.19.1",
+  "updated_at": "2026-09-19",
   "rules": {
     "path": "major_label_blocklist.json",
-    "sha256": "8db43d84d17801db8bcc51e3ce5b6d3fbcbfa65e88d5a4a9f8507efd295c8eb5",
-    "size": 7529
+    "sha256": "f53ff0494e06860882d2d347d64edd72b592271ca8076355f690f74e6d5f2861",
+    "size": 7634
   }
 }

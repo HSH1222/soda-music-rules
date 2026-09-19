@@ -36,6 +36,15 @@
       "reason": "official_source_removed",
       "detected_at": "2026-08-28",
       "status": "pending"
+    },
+    {
+      "source_id": "umg-labels",
+      "company": "Universal Music Group",
+      "section": "labels",
+      "value": "Elias",
+      "reason": "official_source_removed",
+      "detected_at": "2026-09-19",
+      "status": "pending"
     }
   ]
 }

@@ -5,7 +5,7 @@
       "company": "Universal Music Group",
       "section": "labels",
       "url": "https://www.universalmusic.com/labels/",
-      "content_sha256": "0e595c15028f9e012c14fd2ed6273e57e9583d7070ceefddf932b3d51c9fcbfb",
+      "content_sha256": "c0621b8bf605d40d4490cda0073375858d26d1a528ca284b77e053c7176c8b34",
       "items": [
         "0207 Def Jam",
         "Abbey Road",
@@ -34,7 +34,6 @@
         "East Iris Studios",
         "ECM",
         "EDGEOUT Records",
-        "Elias",
         "EMI",
         "EMI North",
         "Fame House",
@@ -64,6 +63,7 @@
         "Republic Records: Kids & Family",
         "Shady Records",
         "Spinefarm Records",
+        "UMPG Audio Branding",
         "Universal Arabic Music",
         "Universal Music Enterprises",
         "Universal Music Latin Entertainment",
@@ -140,7 +140,7 @@
       "company": "Warner Music Group",
       "section": "artists",
       "url": "https://www.wmg.com/recording-artists",
-      "content_sha256": "69e70bab91088ffa524c60f11c3f9b4ea4f1726f2ec7eb5788df5435ad4918a0",
+      "content_sha256": "fd018538a85b042eeeee8aa9d3a39f4e3a26085195875912c2b638e0be8da0d9",
       "items": [
         "Alex Warren",
         "Bruno Mars",
@@ -160,7 +160,7 @@
       "company": "Warner Music Group",
       "section": "labels",
       "url": "https://www.wmg.com/recording-artists",
-      "content_sha256": "69e70bab91088ffa524c60f11c3f9b4ea4f1726f2ec7eb5788df5435ad4918a0",
+      "content_sha256": "fd018538a85b042eeeee8aa9d3a39f4e3a26085195875912c2b638e0be8da0d9",
       "items": [
         "10K Projects",
         "300",
