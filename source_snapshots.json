@@ -5,7 +5,7 @@
       "company": "Universal Music Group",
       "section": "labels",
       "url": "https://www.universalmusic.com/labels/",
-      "content_sha256": "13773b632c993f8efa3977aaf06bba75e36ed2d51ff8d6bcd8c0a02288fe8a3b",
+      "content_sha256": "82d70fba39b579e12c03036615a9a95af0ec87ae19c6f79f8d966b650030f0f7",
       "items": [
         "0207 Def Jam",
         "Abbey Road",
@@ -140,7 +140,7 @@
       "company": "Warner Music Group",
       "section": "artists",
       "url": "https://www.wmg.com/recording-artists",
-      "content_sha256": "02edfcbac1cef1e09da354d786e8a6cb64fd8183edc6ed089cd3374db9ea228d",
+      "content_sha256": "5912b1d894411deead0cb91072e6965b9eaa37c1046a922a405244e13b74e825",
       "items": [
         "Alex Warren",
         "Bruno Mars",
@@ -160,7 +160,7 @@
       "company": "Warner Music Group",
       "section": "labels",
       "url": "https://www.wmg.com/recording-artists",
-      "content_sha256": "02edfcbac1cef1e09da354d786e8a6cb64fd8183edc6ed089cd3374db9ea228d",
+      "content_sha256": "5912b1d894411deead0cb91072e6965b9eaa37c1046a922a405244e13b74e825",
       "items": [
         "10K Projects",
         "300",
